@@ -1,0 +1,14 @@
+{
+  "name": "algo",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "Algo Practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
